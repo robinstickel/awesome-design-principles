@@ -2,10 +2,9 @@
 
 A curated list of good design and experience principles.
 
-> Design Principles are a tool for creating better and more consistent designs and experiences. They are high level rules that guide detailed design decisions. They are often embodied in style guides, pattern libraries or design systems.
+> Design Principles are a tool for creating better and more consistent designs and experiences. They are high level rules that guide detailed design decisions. They are often written down within bigger style guides, pattern libraries or design systems.
 
-Know a resource that isn't listed below? Feel free to create a new [pull request](https://github.com/robinstickel/awesome-design-principles/pulls), or open an [issue](https://github.com/robinstickel/awesome-design-principles/issues/new).
-*Please read the [contribution guidelines](.github/CONTRIBUTING.md) before contributing.*
+Know a resource that isn't listed below? Feel free to create a new [pull request](https://github.com/robinstickel/awesome-design-principles/pulls), or open an [issue](https://github.com/robinstickel/awesome-design-principles/issues/new). Please read the [contribution guidelines](CONTRIBUTING.md) before contributing.
 
 ---
 ## Principles within bigger Design Systems
