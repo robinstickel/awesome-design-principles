@@ -14,8 +14,13 @@ Know a resource that isn't listed below? Feel free to create a new [pull request
 - [Co-op Design Principles](https://coop-design-manual.herokuapp.com/principles.html)
 - [Google Material Design Principles](https://material.io/guidelines/#introduction-principles)
 - [GOV.uk Design Principles](https://www.gov.uk/design-principles)
+- [Harmony Design System Voice & Tone Principles](http://harmony.intuit.com/voice-tone/)
 - [IBM Carbon Design Principles](http://carbondesignsystem.com/guidelines/principles)
+- [Lost My Name Design System Principles](http://design-system.lostmy.name/design-principles)
 - [Mailchimp Writing Goals and Principles](http://styleguide.mailchimp.com/writing-principles/)
+- [Seek Style Guide Principles](https://seek-oss.github.io/seek-style-guide/)
+- [Shopify Polaris Principles](https://polaris.shopify.com/principles/principles#app)
+- [U.S. Web Design Principles](https://standards.usa.gov/design-principles/)
 
 ## Articles
 
