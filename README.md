@@ -7,6 +7,11 @@ A curated list of good design and experience principles.
 Know a resource that isn't listed below? Feel free to create a new [pull request](https://github.com/robinstickel/awesome-design-principles/pulls), or open an [issue](https://github.com/robinstickel/awesome-design-principles/issues/new). Please read the [contribution guidelines](CONTRIBUTING.md) before contributing.
 
 ---
+## Contents
+- [Principles within bigger Design Systems](https://github.com/robinstickel/awesome-design-principles#principles-within-bigger-design-systems)
+- [Articles about Design Principles](https://github.com/robinstickel/awesome-design-principles#articles-about-design-principles)
+- [Other Resources](https://github.com/robinstickel/awesome-design-principles#other-resources)
+
 ## Principles within bigger Design Systems
 
 - [Alibaba Ant Design Principles](https://ant.design/docs/spec/proximity)
@@ -22,7 +27,7 @@ Know a resource that isn't listed below? Feel free to create a new [pull request
 - [Shopify Polaris Principles](https://polaris.shopify.com/principles/principles#app)
 - [U.S. Web Design Principles](https://standards.usa.gov/design-principles/)
 
-## Articles
+## Articles about Design Principles
 
 - [Design Principles - a Guide](https://www.cxpartners.co.uk/our-thinking/design-principles/) Good introduction and best practices.
 - [Developing Asanas Design Principles](https://blog.asana.com/2013/10/design-principles/) Inside article on how Asana developed their principles.
