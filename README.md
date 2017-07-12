@@ -25,12 +25,16 @@ Know a resource that isn't listed below? Feel free to create a new [pull request
 ## Articles
 
 - [Design Principles - a Guide](https://www.cxpartners.co.uk/our-thinking/design-principles/) Good introduction and best practices.
+- [Developing Asanas Design Principles](https://blog.asana.com/2013/10/design-principles/) Inside article on how Asana developed their principles.
+- [The Core Principles of UI Design](https://www.invisionapp.com/blog/core-principles-of-ui-design/) A short excerpt from Fundamental UI Design, an InVision e-course by Jane Portman.
 
 ## Other Resources
 
 - [Learn Design Principles](http://learndesignprinciples.com/) Learn how design principles can be applied from architecture to product design.
 - [Design Principles FTW](http://www.designprinciplesftw.com/) "The biggest collection of Design Principles on the Internet."
 - [principles.adactio.com](https://principles.adactio.com/) A huge list with various types of more traditional design principles.
+- [Principles of User Interface Design](http://bokardo.com/principles-of-user-interface-design/) Long list with well explained principles by Joshua Porter
+- [Principles of Product Design](http://bokardo.com/principles-of-product-design/) Long list with well explained principles by Joshua Porter
 
 ### Credits and Notes
 This list is heavily inspired by [Awesome Design Systems](https://github.com/alexpate/awesome-design-systems) by Alex Pate. As an UX designer I find myself writing design and/or experience principles quite often. I created this list for reference and to get inspiration for better design principles.
