@@ -6,11 +6,11 @@ A curated list of good design and experience principles.
 
 Know a resource that isn't listed below? Feel free to create a new [pull request](https://github.com/robinstickel/awesome-design-principles/pulls), or open an [issue](https://github.com/robinstickel/awesome-design-principles/issues/new). Please read the [contribution guidelines](CONTRIBUTING.md) before contributing.
 
----
 ## Contents
 - [Principles within bigger Design Systems](https://github.com/robinstickel/awesome-design-principles#principles-within-bigger-design-systems)
 - [Articles about Design Principles](https://github.com/robinstickel/awesome-design-principles#articles-about-design-principles)
 - [Other Resources](https://github.com/robinstickel/awesome-design-principles#other-resources)
+---
 
 ## Principles within bigger Design Systems
 
@@ -31,13 +31,13 @@ Know a resource that isn't listed below? Feel free to create a new [pull request
 
 - [Design Principles - a Guide](https://www.cxpartners.co.uk/our-thinking/design-principles/) Good introduction and best practices.
 - [Developing Asanas Design Principles](https://blog.asana.com/2013/10/design-principles/) Inside article on how Asana developed their principles.
-- [The Core Principles of UI Design](https://www.invisionapp.com/blog/core-principles-of-ui-design/) A short excerpt from Fundamental UI Design, an InVision e-course by Jane Portman.
+- [The Core Principles of UI Design](https://www.invisionapp.com/blog/core-principles-of-ui-design/) Short excerpt from Fundamental UI Design, an InVision e-course by Jane Portman.
 
 ## Other Resources
 
 - [Learn Design Principles](http://learndesignprinciples.com/) Learn how design principles can be applied from architecture to product design.
 - [Design Principles FTW](http://www.designprinciplesftw.com/) "The biggest collection of Design Principles on the Internet."
-- [principles.adactio.com](https://principles.adactio.com/) A huge list with various types of more traditional design principles.
+- [principles.adactio.com](https://principles.adactio.com/) Huge list with various types of more traditional design principles.
 - [Principles of User Interface Design](http://bokardo.com/principles-of-user-interface-design/) Long list with well explained principles by Joshua Porter
 - [Principles of Product Design](http://bokardo.com/principles-of-product-design/) Long list with well explained principles by Joshua Porter
 
