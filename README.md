@@ -32,6 +32,7 @@ Know a resource that isn't listed below? Feel free to create a new [pull request
 - [Design Principles - a Guide](https://www.cxpartners.co.uk/our-thinking/design-principles/) Good introduction and best practices.
 - [Developing Asanas Design Principles](https://blog.asana.com/2013/10/design-principles/) Inside article on how Asana developed their principles.
 - [The Core Principles of UI Design](https://www.invisionapp.com/blog/core-principles-of-ui-design/) Short excerpt from Fundamental UI Design, an InVision e-course by Jane Portman.
+- [Design Principles Guide to less shitty Feedback](https://medium.com/apegroup-texts/design-principles-a-guide-to-less-shitty-feedback-64e9541816c1) Short introduction and practical guide on how to set design principles (with examples)
 
 ## Other Resources
 
