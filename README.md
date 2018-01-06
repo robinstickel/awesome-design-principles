@@ -43,6 +43,7 @@ Know a resource that isn't listed below? Feel free to create a new [pull request
 - [principles.adactio.com](https://principles.adactio.com/) - Huge list with various types of more traditional design principles.
 - [Principles of User Interface Design](http://bokardo.com/principles-of-user-interface-design/) - Long list with well explained principles by Joshua Porter
 - [Principles of Product Design](http://bokardo.com/principles-of-product-design/) - Long list with well explained principles by Joshua Porter
+- [Built Enviornment Innovation Design](https://github.com/BEICOOP/BEICPBLChallenge/blob/master/Phase3/Stakeholders_Roles/Designer.md) - Lists professional design disciplines associated with built environment ventures and describes their roles (part of an open source project based learning challenge curricula).
 
 ### Credits and Notes
 This list is heavily inspired by [Awesome Design Systems](https://github.com/alexpate/awesome-design-systems) by Alex Pate. As an UX designer I find myself writing design and/or experience principles quite often. I created this list for reference and to get inspiration for better design principles.
