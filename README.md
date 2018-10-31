@@ -21,7 +21,7 @@ Know a resource that isn't listed below? Feel free to create a new [pull request
 - [Google Material Design Principles](https://material.io/guidelines/#introduction-principles)
 - [GOV.uk Design Principles](https://www.gov.uk/design-principles)
 - [Harmony Design System Voice & Tone Principles](http://harmony.intuit.com/voice-tone/)
-- [IBM Carbon Design Principles](http://carbondesignsystem.com/guidelines/principles)
+- [IBM Carbon Design Principles](https://www.carbondesignsystem.com/guidelines/accessibility/overview)
 - [Lost My Name Design System Principles](http://design-system.lostmy.name/design-principles)
 - [Mailchimp Writing Goals and Principles](http://styleguide.mailchimp.com/writing-principles/)
 - [Nachos - Trello's Design System Principles](https://design.trello.com/principles)
