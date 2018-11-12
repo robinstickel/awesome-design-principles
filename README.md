@@ -38,7 +38,7 @@ Know a resource that isn't listed below? Feel free to create a new [pull request
 
 ## Other Resources
 
-- [Built Enviornment Innovation Design](https://github.com/BEICOOP/BEICPBLChallenge/blob/master/Phase3/Stakeholders_Roles/Designer.md) - Lists professional design disciplines associated with built environment ventures and describes their roles (part of an open source project based learning challenge curricula).
+- [Built Environment Innovation Design](https://github.com/BEICOOP/BEICPBLChallenge/blob/master/Phase3/Stakeholders_Roles/Designer.md) - Lists professional design disciplines associated with built environment ventures and describes their roles (part of an open source project based learning challenge curricula).
 - [Learn Design Principles](http://learndesignprinciples.com/) - Learn how design principles can be applied from architecture to product design.
 - [Design Principles FTW](http://www.designprinciplesftw.com/) - "The biggest collection of Design Principles on the Internet."
 - [principles.adactio.com](https://principles.adactio.com/) - Huge list with various types of more traditional design principles.
