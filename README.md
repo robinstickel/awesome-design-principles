@@ -1,4 +1,4 @@
-# Awesome Design Principles [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome Design Principles [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Subscribe to updates](https://i.listlist.net/badge.svg?m=robinstickel%2Fawesome-design-principles)](https://listlist.net/user/robinstickel/awesome-design-principles?subscribe)
 
 A curated list of good design and experience principles.
 
