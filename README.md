@@ -15,6 +15,7 @@ Know a resource that isn't listed below? Feel free to create a new [pull request
 ## Principles within bigger Design Systems
 
 - [Alibaba Ant Design Principles](https://ant.design/docs/spec/proximity)
+- [Apple Human Interface Principles](https://developer.apple.com/design/human-interface-guidelines/)
 - [Atlassian Brand Personality](https://atlassian.design/guidelines/brand/personality)
 - [Co-op Design Principles](https://coop-design-manual.herokuapp.com/principles.html)
 - [Firefox Photon Design System Principles](http://design.firefox.com/photon/introduction/principles.html)
